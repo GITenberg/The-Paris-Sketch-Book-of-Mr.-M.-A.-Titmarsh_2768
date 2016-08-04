@@ -1,0 +1,28 @@
+_repo: The-Paris-Sketch-Book-of-Mr.-M.-A.-Titmarsh_2768
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thackeray, William Makepeace
+    alias: Titmarsh, Michael Angelo
+    birthdate: 1811
+    deathdate: 1863
+    gutenberg_agent_id: '313'
+    url: http://www.gutenberg.org/2009/agents/313
+    wikipedia:
+    - http://en.wikipedia.org/wiki/William_Makepeace_Thackeray
+    - http://www.victorianweb.org/authors/wmt/wmtov.html
+description: ''
+gutenberg_issued: '2001-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2768'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- Description and travel'
+- !lcc 'PR'
+- GITenberg
+title: The Paris Sketch Book of Mr. M. A. Titmarsh
+url: http://www.gutenberg.org/ebooks/2768
