@@ -1,5 +1,8 @@
 _repo: The-Paris-Sketch-Book-of-Mr.-M.-A.-Titmarsh_2768
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Thackeray, William Makepeace
@@ -12,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/William_Makepeace_Thackeray
     - http://www.victorianweb.org/authors/wmt/wmtov.html
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2768#The-Paris-Sketch-Book-of-Mr.-M.-A.-Titmarsh
 gutenberg_issued: '2001-08-01'
 gutenberg_type: Text
 identifiers:
